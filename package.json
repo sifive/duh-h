@@ -9,6 +9,9 @@
   "scripts": {
     "test": "eslint lib && mocha test && nyc -r=text -r=lcov mocha test"
   },
+  "files": [
+    "lib"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sifive/duh-h.git"
