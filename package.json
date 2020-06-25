@@ -37,6 +37,6 @@
   },
   "dependencies": {
     "duh-core": "^0.9.1",
-    "fs-extra": "^9.0.1"
+    "fs-extra": "^8.1.0"
   }
 }
