@@ -36,7 +36,8 @@
     "extends": "@drom/eslint-config/eslint4/node8"
   },
   "dependencies": {
-    "duh-core": "^0.9.1",
-    "fs-extra": "^8.1.0"
+    "duh-core": "^0.11.1",
+    "fs-extra": "^8.1.0",
+    "yargs": "^15.4.1"
   }
 }
