@@ -1,6 +1,6 @@
 {
   "name": "duh-h",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Header file export",
   "main": "lib/index.js",
   "bin": {
